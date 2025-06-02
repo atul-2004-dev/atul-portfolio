@@ -266,6 +266,6 @@ export const projects = [
     image: portfoliologo,
     tags: ["React JS", "TailwindCSS", "EmailJs", "HTML", "CSS", "Javascript"],
     github: "https://github.com/atul-2004-dev",
-    webapp: "https://github.com/atul-2004-dev",
+    webapp: "https://portfolio-hz61aracc-atuls-projects-5d80598e.vercel.app/",
   },
 ];
