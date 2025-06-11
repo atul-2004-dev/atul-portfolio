@@ -29,7 +29,7 @@ A modern, responsive personal portfolio website built using **React.js**, **Tail
 - ✅ Animated transitions and smooth scroll effects.
 - ✅ Interactive contact form with real-time email sending via EmailJS.
 - ✅ Dynamic sections for skills, projects, and about.
-- ✅ Clean, minimalistic, and professional UI.
+- ✅ Clean, precise, and professional UI.
 
 ---
 
